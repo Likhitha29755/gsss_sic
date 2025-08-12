@@ -2,3 +2,27 @@ Floating point numbers are stored using IEEE standards.
 in relational operators which are the two operators are most important and useful.
 
 
+conditional programming:
+Tax Calculation problem.
+Farmer problem.
+*Student result problem.
+* check if a number is perfect square.
+* check if a year is leap year.
+
+DAY2:
+
+problems on looops:
+*implement range function
+*accept the number of lines of the shape and draw the following shapes:
+  1. X shape
+  2. Hollow shape
+  3. X inside hollow square
+  4. Pascal Triangle
+  5. Rhombus
+Accept a number and implement following programs:
+  1. Find sum of Even placed digits.
+  2.Find sum of odd placed  even digits in a number.
+  3. Find 2nd smallest digit in the number.
+  4. Find 2nd biggest digit and also check if 2nd biggest digit is not possible to be found.
+  5. Find sum of composite digits of the number.
+
