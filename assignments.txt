@@ -1,0 +1,4 @@
+Floating point numbers are stored using IEEE standards.
+in relational operators which are the two operators are most important and useful.
+
+
