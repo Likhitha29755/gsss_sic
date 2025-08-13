@@ -9,27 +9,6 @@ Farmer problem.
 * check if a number is perfect square.
 * check if a year is leap year.
 
-DAY2:
-
-problems on looops:
-*implement range function
-*accept the number of lines of the shape and draw the following shapes:
-  1. X shape
-  2. Hollow shape
-  3. X inside hollow square
-  4. Pascal Triangle
-  5. Rhombus
-Accept a number and implement following programs:
-  1. Find sum of Even placed digits.
-  2.Find sum of odd placed  even digits in a number.
-  3. Find 2nd smallest digit in the number.
-  4. Find 2nd biggest digit and also check if 2nd biggest digit is not possible to be found.
-  5. Find sum of composite digits of the number.
-
-
-
-
-
 ASSIGNMENTS:
 
 DAY1:
@@ -170,3 +149,18 @@ in one crop cycle across his entire land of 80 acres.
 What is
 a. The overall sales achieved by Mahesh from the 80 acres of land.
 b. Sales realisation from chemical-free farming at the end of 11 months?
+
+
+
+
+Day 3
+
+1.Learn output formating in int and string.
+2.why in python we do not have increement and decreement option?
+3.learn about the __main__
+4.what is pep3 and pythonic? 
+**java(doc.oracle.com)
+5.Can we modify the list which is in the tuple?
+6.pass the command line argument into the my range function..
+why and where we store a argv file and why we need?
+why in python there is no implicit type casting?

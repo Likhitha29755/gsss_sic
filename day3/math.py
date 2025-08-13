@@ -1,6 +1,6 @@
 import sys
  
-number =int(sys.argv[1])
+number =int(sys.argv[1])  #it is IndexError
 print(f'User given number is {number}')
 
 for i in range(1,21):

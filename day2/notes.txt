@@ -95,3 +95,15 @@ O/P is boolean
 
 x = y
 variable = value
+
+
+Day3
+
+
+*import pymysql (it is a bridge b/w sql to python)
+
+*map:
+ map is access every element in one by one in list.
+ num=list(map(int,sys.argv))
+
+*PVM( python virtual machine)
