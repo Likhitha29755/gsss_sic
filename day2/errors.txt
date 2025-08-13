@@ -1,0 +1,9 @@
+when we ask a python to do something but python can't do it then its a error.
+
+
+
+SyntaxError: when syntax is wrong.
+NameError: when we not defined specifically
+IndexError: when we ask a index value is not defined.
+ValueError: when we are trying to cast some value into other and it is not possible.
+            ex: invalid literal for int 

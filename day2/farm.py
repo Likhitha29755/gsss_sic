@@ -25,21 +25,21 @@ segments = 5
 one_segment = 16                  #80/5 = 16 acres
 
 # Tomatoes 
-tom_30_land = 0.3*10*1000*7*16  #336000
-tom_70_land = 0.7*12*1000*7*16  #940800
+tom_30_land = 0.3*10*1000*7*one_segment  #336000
+tom_70_land = 0.7*12*1000*7*one_segment  #940800
 tom_selling_price = tom_30_land + tom_70_land # 1276800
 
 #Potatos
-pot_selling_price = 10*1000*20*16   #3200000
+pot_selling_price = 10*1000*20*one_segment   #3200000
 
 #Cabbage
-cab_selling_price = 14*1000*24*16   # 5376000
+cab_selling_price = 14*1000*24*one_segment   # 5376000
 
 #sunflower
-sun_selling_price = 0.7*1000*200*16  #2240000
+sun_selling_price = 0.7*1000*200*one_segment  #2240000
 
 #sugercane
-sug_selling_price = 45*4000*16  #2880000
+sug_selling_price = 45*4000*one_segment  #2880000
 
 #Total selling price in 80 acres
 Selling_price = tom_selling_price + pot_selling_price + cab_selling_price + sun_selling_price + sug_selling_price

@@ -8,7 +8,9 @@ Tasks:
 Output: Display gross salary, standard deduction and taxable income.
 '''
 
+import taxation
 
 standard_deduction = 50_000
-taxable_income = taxation.annual_gross_salary - standard_deduction
-print(taxable_income)
+taxable_income = taxation.gross_annual_salary - standard_deduction
+print(f'Standard Deduction = {standard_deduction}')
+print(f'Taxable Income = {taxable_income}')
