@@ -18,7 +18,7 @@ def check_arrangement(braces):
         return open_count
     return -1
 
-input_str = sys.argv[0]
+input_str = sys.argv[1]
 print(f'User given input is {input_str}')
 number_of_pairs = check_arrangement(input_str)
 if number_of_pairs != -1:

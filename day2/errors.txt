@@ -9,4 +9,4 @@ ValueError : when we are trying to cast some value into other and it is not poss
              ex: invalid literal for int 
 TypeError  : range expected at least one argument and at most 3
 ZeroDivisionError: when we divide a number by 0
-
+RecursionError   : maximum recursion depth exceeded while calling a python object.
