@@ -1,0 +1,9 @@
+thunder client :-
+
+get:  read all /retrieve
+post: insert 
+pacth/put: update
+delete: delete
+
+in body goto json 
+give code 
