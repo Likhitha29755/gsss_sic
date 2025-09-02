@@ -1,4 +1,8 @@
+main file is hr_dashboard.py
+
 for hr_dashboard.py
+
+pip install streamlit ,streamlit_authenticato, plotly,pandas
 
 Step 1: Activate Your Virtual Environment
 D:\likhitha_learning\employee_salary_project\venv\Scripts\activate
@@ -8,3 +12,6 @@ how i run the code in hr_dashbord.py
 in cmd :- streamlit run hr_dashboard.py
 
 
+for login 
+username : likhi
+password : 123
