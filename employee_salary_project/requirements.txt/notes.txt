@@ -1,0 +1,10 @@
+for hr_dashboard.py
+
+Step 1: Activate Your Virtual Environment
+D:\likhitha_learning\employee_salary_project\venv\Scripts\activate
+
+Step 2:
+how i run the code in hr_dashbord.py
+in cmd :- streamlit run hr_dashboard.py
+
+
